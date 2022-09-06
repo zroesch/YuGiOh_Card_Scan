@@ -1,0 +1,22 @@
+1. Set up Android Studio Development Environment and add libraries
+    (activity, camera, compose, material, room
+
+2. Use Room Library to create SQLite Database
+
+3. Use ID and Set_code to find card in API and get info for database
+
+4. Download/Display Card Image to user
+
+5. Enter card into database
+
+6. Database{
+    ID: Int
+    name: String
+    type: String
+    desc: String
+    set_name: String
+    set_code: String
+    set_rarity: String
+    set_price: Double
+}
+
